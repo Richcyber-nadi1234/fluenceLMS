@@ -1,0 +1,8 @@
+{
+  "name": "Fluence LMS Parent Dashboard",
+  "description": "A parent dashboard for the Fluence Learning Management System to track a child's performance, view feedback, and manage settings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
